@@ -1,5 +1,5 @@
 ====================================================
- TaskManager Pro v2 — SET11103 Coursework
+ TaskManager Pro v2 
 ====================================================
 
 HOW TO RUN IN ECLIPSE
