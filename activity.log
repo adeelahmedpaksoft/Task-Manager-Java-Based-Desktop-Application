@@ -1,0 +1,18 @@
+[2026-04-22 01:09:27] ADDED | [1] Design login UI mockup | HIGH | TODO | 0%
+[2026-04-22 01:09:27] ADDED | [2] Fix null pointer in TaskRepository | CRITICAL | TODO | 0%
+[2026-04-22 01:09:27] UPDATED | [2] Fix null pointer in TaskRepository | CRITICAL | IN_PROGRESS | 45%
+[2026-04-22 01:09:27] ADDED | [3] Write unit tests for AuthService | MEDIUM | TODO | 0%
+[2026-04-22 01:09:27] UPDATED | [3] Write unit tests for AuthService | MEDIUM | TODO | 0%
+[2026-04-22 01:09:27] ADDED | [4] Update API documentation | LOW | TODO | 0%
+[2026-04-22 01:09:27] UPDATED | [4] Update API documentation | LOW | DONE | 100%
+[2026-04-22 01:09:27] ADDED | [5] Implement CSV export | MEDIUM | TODO | 0%
+[2026-04-22 01:09:27] UPDATED | [5] Implement CSV export | MEDIUM | IN_PROGRESS | 65%
+[2026-04-22 01:09:27] ADDED | [6] Refactor filter strategy classes | LOW | TODO | 0%
+[2026-04-22 01:09:27] UPDATED | [6] Refactor filter strategy classes | LOW | REVIEW | 90%
+[2026-04-22 01:09:27] ADDED | [7] Overdue: Migrate database schema | HIGH | TODO | 0%
+[2026-04-22 01:09:27] UPDATED | [7] Overdue: Migrate database schema | HIGH | TODO | 0%
+[2026-04-22 01:09:27] ADDED | [8] Set up CI/CD pipeline | HIGH | TODO | 0%
+[2026-04-22 01:09:27] UPDATED | [8] Set up CI/CD pipeline | HIGH | IN_PROGRESS | 30%
+[2026-04-22 01:09:56] ADDED | [9] a | LOW | TODO | 0%
+[2026-04-22 01:09:56] UPDATED | [9] a | LOW | TODO | 5%
+[2026-04-23 01:07:58] LOADED | ALL TASKS

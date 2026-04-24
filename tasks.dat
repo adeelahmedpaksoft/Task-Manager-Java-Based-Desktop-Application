@@ -1,0 +1,8 @@
+id,title,description,priority,status,category,dueDate,assignedTo,progress,tags,createdDate
+1,Design login UI mockup,Create Figma mockups for the new login flow,HIGH,TODO,FEATURE,2026-04-25,dev1,0,,2026-04-22
+2,Fix null pointer in TaskRepository,Occurs when task list is empty on load,CRITICAL,IN_PROGRESS,BUG,2026-04-21,dev1,45,,2026-04-22
+4,Update API documentation,Reflect new endpoint changes in README,LOW,DONE,DOCUMENTATION,2026-05-06,dev1,100,,2026-04-22
+5,Implement CSV export,Allow users to export task list to CSV,MEDIUM,IN_PROGRESS,FEATURE,2026-04-27,dev1,65,,2026-04-22
+6,Refactor filter strategy classes,Reduce duplication using abstract base,LOW,REVIEW,IMPROVEMENT,2026-05-02,dev2,90,,2026-04-22
+7,Overdue: Migrate database schema,Update schema to v3 format,HIGH,TODO,OTHER,2026-04-19,dev1,0,,2026-04-22
+8,Set up CI/CD pipeline,Configure GitHub Actions for auto-deploy,HIGH,IN_PROGRESS,FEATURE,2026-04-24,dev1,30,,2026-04-22
